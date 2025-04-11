@@ -1,0 +1,36 @@
+#Ignore data directory
+/data/
+
+#Ignore all log files
+*.log
+#Ignore all .DS_Store files
+*.DS_Store
+#Ignore all .env files
+*.env
+#Ignore all .idea files
+.idea/
+#Ignore all .vscode files
+.vscode/
+#Ignore all .pytest_cache files
+__pycache__/
+
+#Ignore all .egg-info files
+*.egg-info/
+
+#Ignore all .egg files
+*.egg
+
+#Ignore all .pyc files
+*.pyc
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+/dist/
+/build/
